@@ -22,4 +22,6 @@ IntroduceMe! is a sophisticated chatbot designed to help users get to know me, T
 - **Exit Conditions**: Gracefully handles exit commands to end the conversation.
 
 ## Use
-I will soon deploying the model for user interaction using heroku. Stay tuned for updates!
+Please use this link to interact with my model!
+https://huggingface.co/spaces/Mymodle/IntroduceMe-bot
+
