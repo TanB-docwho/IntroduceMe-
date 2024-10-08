@@ -27,7 +27,7 @@ IntroduceMe! is a sophisticated chatbot designed to help users get to know me, T
   - Current Job Hunt/Interest: Values, Preferred Roles/Teams, What I look for in a company, etc
   - General Career Overview: Entry into Tech/AI, Career Goals, Why I'm the Best Choice :)
 
-You can even give my chatbot feedback to pass on to me! I look forward to hearing about your experiences and advice <3
+If you have the time, please leave your feedback with my chatbot to pass onto me! I look forward to hearing about your experiences and advice <3
 
 ## Use
 Please use this link to interact with my model!
